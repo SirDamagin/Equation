@@ -1,0 +1,37 @@
+body
+{
+    margin:0;
+}
+.equationBox
+{
+    padding-left: 10px;
+    width:318px;
+    height:50px;
+    font-size:30px;
+    border-color: black;
+}
+.rules
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:18px;
+    margin: 10px 0 0 20px;
+}
+.result1,.result2
+{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:26px;
+    margin: 20px 0 0 20px;
+}
+.box
+{
+    margin: 20px 0 0 20px;
+    display: flex;
+    align-items: center;
+}
+.resolveButton
+{
+    margin-left: -2px;
+    height:56px;
+    border-color: black;
+    font-size: 22px;
+}
